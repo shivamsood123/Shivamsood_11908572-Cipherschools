@@ -1,0 +1,17 @@
+# Shivamsood_11908572-Cipherschools
+
+Employee Management System:
+
+Frontend: Angular.js, 
+Backend: Spring boot,
+Database: MySQL
+
+This web application will have features as: 
+1. Create new employee
+2. Update details of employee
+3. List all employees
+4. Display employee
+5. Remove employee
+
+Screenshot:
+![Screenshot (957)](https://user-images.githubusercontent.com/59047279/178988446-e1f43aab-58fd-4f93-93eb-17dec5b0a869.png)
